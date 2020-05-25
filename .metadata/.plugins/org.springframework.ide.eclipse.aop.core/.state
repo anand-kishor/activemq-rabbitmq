@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="activemq-lb-demo"/>
+<aop-project name="rabbitmq-consumer-spring-amqp-consumer2"/>
+<aop-project name="rabbitmq-spring-amqp-consumer"/>
+<aop-project name="activemq-springjms-demo"/>
+<aop-project name="rabbitmq-spring-amqp-producer"/>
+<aop-project name="rabbitmq-producer-spring-amqp-producer2"/>
+</aop-reference-model>

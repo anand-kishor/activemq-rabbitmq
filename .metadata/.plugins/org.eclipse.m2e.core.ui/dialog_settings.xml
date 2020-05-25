@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.anand"/>
+			<item value="com.anand.email"/>
+			<item value="com.spring.rabbitmq.anand"/>
+			<item value="com.rabbit.kishor"/>
+			<item value="com.kishor.jms"/>
+			<item value="com.kishor"/>
+			<item value="com.saurav"/>
+			<item value="com.spring.jms"/>
+			<item value="com.anand.sender"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SpingAnnotationBasedEmail"/>
+			<item value="SpringEMAILDemo"/>
+			<item value="rabbitmq-spring-amqp-producer"/>
+			<item value="rabbitmq-jms-pro-consumer"/>
+			<item value="jms-listener-spring-activemq"/>
+			<item value="async-spring-jms-consumer"/>
+			<item value="async-spring-jms-producer"/>
+			<item value="product-spring-jms"/>
+			<item value="spring-jms-demo"/>
+			<item value="jms-demo-sender"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\spring-cloud-netflix-master\spring-cloud-netflix-master"/>
+			<item value="E:\activemq-fileTransfer-demo\activemq-fileTransfer-demo"/>
+			<item value="E:\activemq-ssl-demo\activemq-ssl-demo"/>
+			<item value="E:\activemq-lb-demo\activemq-lb-demo"/>
+			<item value="E:\activemq-monitor-demo\activemq-monitor-demo"/>
+			<item value="E:\activemq-springjms-demo\activemq-springjms-demo"/>
+			<item value="E:\activemq-failover-demo\activemq-failover-demo"/>
+			<item value="E:\activemq-distributedQueue-demo\activemq-distributedQueue-demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

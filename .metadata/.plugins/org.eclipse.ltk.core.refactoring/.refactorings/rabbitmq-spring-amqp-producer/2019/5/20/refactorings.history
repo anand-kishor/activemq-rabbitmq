@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.spring.rabbitmq.anand.producer.RabbitmqConfig&apos; to &apos;RabbitMQConfig&apos;&#x0D;&#x0A;- Original project: &apos;rabbitmq-spring-amqp-producer&apos;&#x0D;&#x0A;- Original element: &apos;com.spring.rabbitmq.anand.producer.RabbitmqConfig&apos;&#x0D;&#x0A;- Renamed element: &apos;com.spring.rabbitmq.anand.producer.RabbitMQConfig&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RabbitmqConfig&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.spring.rabbitmq.anand.producer{RabbitmqConfig.java[RabbitmqConfig" matchStrategy="1" name="RabbitMQConfig" qualified="false" references="true" similarDeclarations="false" stamp="1558132278792" textual="false" version="1.0"/>
+</session>

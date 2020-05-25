@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.anand.email.mail.Mail&apos; to &apos;Email&apos;&#x0D;&#x0A;- Original project: &apos;SpringEMAILDemo&apos;&#x0D;&#x0A;- Original element: &apos;com.anand.email.mail.Mail&apos;&#x0D;&#x0A;- Renamed element: &apos;com.anand.email.mail.Email&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Mail&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.anand.email.mail{Mail.java[Mail" matchStrategy="1" name="Email" qualified="false" references="true" similarDeclarations="false" stamp="1558682744190" textual="false" version="1.0"/>
+</session>
